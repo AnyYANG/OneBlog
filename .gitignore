@@ -28,3 +28,5 @@ blog-core/src/main/resources/config/application-center-prod.yml
 *.yml
 blog-web/src/main/resources/application.yml
 blog-core/src/main/resources/config/application-center-dev.yml
+docs/db/erp_customer_settlement_month.sql
+blog-core/src/main/resources/config/application-center-dev.yml
