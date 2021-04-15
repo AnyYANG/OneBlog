@@ -131,6 +131,8 @@
                         <#else>
                             <a href="${config.siteUrl}/links" title="申请友链" data-toggle="tooltip" data-placement="right">申请友链</a>
                         </#if>
+                        <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279846381'%3E%3C/span%3E%3Cscript src='https://v1.cnzz.com/z_stat.php%3Fid%3D1279846381%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
                     </div>
                 </#if>
             </div>
